@@ -1,6 +1,4 @@
 ### Hi there 👋 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnohheeyeon&count_bg=%23B9D171&title_bg=%23EDF642&icon=iconify.svg&icon_color=%23FFF79C&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 **nohheeyeon/nohheeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
